@@ -6,6 +6,10 @@ This the sample project used in the workshop by [Asim Hussain](http://twitter.co
 
 The project is bootstrapped using npm but at the same time since this is a use case of migrating an old AngularJS project created some time ago we use bower to install the dependencies since that was the norm until a few years ago.
 
+`npm install`
+
+and
+
 `npm run setup`
 
 ## Running
